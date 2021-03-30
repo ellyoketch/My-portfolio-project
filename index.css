@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+p{
+    color: white;
+}
+h1, h2, h4{
+    color: white;
+}
+
+ol{
+    list-style-type: upper-roman;
+    color: white;
+}
