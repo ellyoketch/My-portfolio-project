@@ -2,6 +2,7 @@
 #### This project is about my personal portfolio landing page created on 30/03/2021
 #### By Elly Oketch
 ## Description
+This project is basically about myself, education qualification, job experience and hobbies and interests.
 ## Setup/Installation Requirements
 * Ensure you have github account/ You are a registered user on github.
 * git clone https://github.com/ellyoketch/My-portfolio-project.git
