@@ -3,9 +3,15 @@
 }
 p{
     color: white;
+    margin-left: 300px;
 }
 h1, h2, h4{
     color: white;
+    margin-left: 300px;
+}
+body{
+    border: rgb(126, 134, 130);
+    border-style: solid;
 }
 
 ol{
